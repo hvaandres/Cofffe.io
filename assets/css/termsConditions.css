@@ -1,0 +1,10 @@
+
+.container_termsConditions {
+    margin: 100px;
+    border: 0;
+}
+
+.container_termsConditions>.terms_conditions>.terms{
+    font-size: 12px;
+}
+
